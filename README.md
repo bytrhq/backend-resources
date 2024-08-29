@@ -140,3 +140,45 @@ At the intermediate level, the focus shifts to building more complex backend app
   
 - **[Implementing OAuth 2.0 Authorization in Node.js](https://www.youtube.com/watch?v=Ud5xKCYQTjM)**  by Web Dev Simplified 
   This video tutorial walks you through implementing OAuth 2.0 in a Node.js application, covering the entire authentication flow. It’s perfect for developers looking to implement third-party authentication in their backend.
+
+
+## 3. Advanced Level
+The advanced level focuses on complex backend topics such as distributed systems, microservices, advanced API design, and security. The resources here are selected for developers who want to master backend development and tackle challenging problems.
+
+### 3.1 Book
+- **[Microservices Patterns](https://www.flipkart.com/microservice-patterns/p/itmfy9j5ukwhqxng)** by Chris Richardson
+  This book explores advanced strategies for designing and implementing microservices, a popular architectural pattern in modern backend development. It covers topics like service decomposition, inter-service communication, and handling data consistency in a microservices architecture.
+  
+- **[Building Microservices](https://www.amazon.in/Building-Microservices-Sam-Newman/dp/1491950358)** by Sam Newman  
+  This book is a comprehensive guide to microservices architecture, covering everything from design principles to implementation strategies. It’s a must-read for developers looking to master microservices.
+
+- **[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)** by Gene Kim, Kevin Behr, and George Spafford  
+  A novel that explains the DevOps philosophy and how it can be applied to backend development. It’s an engaging read for developers looking to understand the broader context of their work.
+
+- **[Designing Event-Driven Systems](https://www.goodreads.com/book/show/39793332-designing-event-driven-systems)** by Ben Stopford  
+  This book is a comprehensive guide to event-driven architecture (EDA), a critical concept in modern backend development. It covers patterns, best practices, and real-world examples of how to build event-driven systems.
+
+- **[Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.in/Site-Reliability-Engineering-Production-Systems-ebook/dp/B01DCPXKZ6)** by Niall Richard Murphy  
+  This book is an in-depth look at how Google manages and scales its backend systems. It covers topics like monitoring, reliability, and operational efficiency, providing valuable insights for building highly reliable backend systems.
+
+- **[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)** by Eric Evans 
+  This book introduces Domain-Driven Design (DDD), a methodology for managing complex software projects by aligning the software design with business needs. It's essential for developers looking to master the art of building complex backend systems.
+
+
+### 3.2 Articles
+
+- **[Scaling Node.js Applications](https://blog.risingstack.com/monitoring-nodejs-applications-nodejs-at-scale/)** by RisingStack   
+  An advanced guide that covers techniques for scaling your backend applications to handle large volumes of traffic. This series explores load balancing, horizontal scaling, and performance optimization techniques.
+  
+- **[Event-Driven Architecture in Node.js](https://auth0.com/docs/get-started/identity-fundamentals/introduction-to-auth0)** by LogRocket   
+   A deep dive into JSON Web Tokens (JWT) and how they can be used for secure authentication in web applications. This article covers the basics of JWT and how to implement it in your backend.
+  
+- **[Handling Distributed Transactions in Microservices](https://dzone.com/articles/practical-transaction-handling-in-microservice-arc)** by DZone  
+  This article delves into the challenges and solutions for managing distributed transactions in a microservices architecture. It’s an essential read for developers working with complex distributed systems.
+  
+- **[Optimizing Database Queries for High-Performance Applications](https://www.percona.com/blog/improving-mysql-query-performance/)** by Percona  
+  This article provides advanced techniques for optimizing database queries, focusing on indexing, query planning, and execution. It’s perfect for developers looking to enhance their backend's database performance.
+  
+- **[Understanding Serverless Architecture](https://aws.amazon.com/serverless/)** by Google Developers  
+  This article explains the principles of serverless architecture and how to implement it in backend systems. It covers key concepts like Function-as-a-Service (FaaS), event-driven execution, and the benefits of serverless computing.
+
