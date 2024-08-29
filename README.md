@@ -182,3 +182,35 @@ The advanced level focuses on complex backend topics such as distributed systems
 - **[Understanding Serverless Architecture](https://aws.amazon.com/serverless/)** by Google Developers  
   This article explains the principles of serverless architecture and how to implement it in backend systems. It covers key concepts like Function-as-a-Service (FaaS), event-driven execution, and the benefits of serverless computing.
 
+### 3.3 Tutorials
+
+- **[Building Scalable Microservices with Node.js and Kubernetes](https://www.youtube.com/watch?v=U4d4v6J5ONk)** by TechWorld with Nana  
+  Description: A project-based tutorial that teaches you how to build and deploy scalable microservices using Node.js and Kubernetes. It covers everything from setting up a Kubernetes cluster to deploying and scaling microservices.
+
+- **[GraphQL with Node.js & Express](https://www.youtube.com/watch?v=Ke4pH9LuA1c)** by The Net Ninja  
+  Description: An advanced tutorial that shows you how to implement GraphQL in your backend environment, offering more flexibility and efficiency in data retrieval. It covers the basics of GraphQL, setting up a Node.js server, and integrating GraphQL with Express.
+
+- **[Building Event-Driven Microservices with Node.js and Kafka](https://www.confluent.io/confluent-cloud/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.brand_tp.prs_tgt.confluent-brand_mt.mbm_rgn.india_lng.eng_dv.all_con.confluent-service&utm_term=confluent%20service&creative=&device=c&placement=&gad_source=1&gclid=CjwKCAjw5qC2BhB8EiwAvqa41jPYGmJhahVdWH9xgXKxobWNc-6eCIlZTctcoxs-M6gblPWaN_kBJhoCrykQAvD_BwE)** by Confluent  
+  Description: This tutorial guides you through building event-driven microservices using Node.js and Apache Kafka. It covers topics like event streaming, message brokers, and integrating Kafka with a Node.js backend.
+
+- **[Implementing OAuth 2.0 in Your Backend API](https://developer.okta.com/docs/guides/implement-oauth-for-okta/main/)** by Okta  
+  Description: A comprehensive guide to implementing OAuth 2.0 authentication in your backend API. It covers everything from setting up OAuth 2.0 to securing API endpoints with token-based authentication.
+
+### 3.4 Videos
+
+- **[Load Balancing and Caching for Scalable Node.js Applications](https://youtu.be/ZGymN8aFsv4?si=Je5Ldk9a0JvOrJSz)** by Traversy Media  
+  Description: This video covers advanced topics like load balancing and caching, essential for building high-performance backend systems. It explains how to distribute traffic across multiple servers and cache responses for improved performance.
+
+- **[Event Sourcing and CQRS in Node.js](https://www.youtube.com/watch?v=XrkNwwVLyOY)** by Fredrik Christenson  
+  Description: A deep dive into advanced architectural patterns like Event Sourcing and Command Query Responsibility Segregation (CQRS) using Node.js. This video provides practical examples and implementation strategies.
+
+- **[Building and Deploying Microservices with Docker and Kubernetes](https://www.youtube.com/watch?v=s_o8dwzRlu4)** by Google Cloud  
+  Description: This video tutorial from Google Cloud teaches you how to build, package, and deploy microservices using Docker and Kubernetes. It covers the entire process from development to deployment in a production environment.
+
+- **[Understanding and Implementing Distributed Systems](https://youtu.be/UEAMfLPZZhE?si=rHQiMJ2nLaQmizT8)** by Martin Kleppmann  
+  Description: This lecture by Martin Kleppmann explores the fundamentals of distributed systems, including consistency, fault tolerance, and consensus algorithms. It’s a must-watch for developers interested in building reliable distributed backend systems.
+
+- **[Advanced API Design and Best Practices](https://www.youtube.com/watch?v=dnFm6MlPnco)** by AWS  
+  Description: A video that covers advanced API design principles and best practices, including versioning, rate limiting, and error handling. It’s essential for developers looking to design robust and scalable APIs.
+
+
