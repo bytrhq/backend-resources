@@ -1,3 +1,5 @@
+![Backend-resources](https://github.com/user-attachments/assets/128b729e-be5e-4cd7-a344-7c4c4973cb2e)
+
 # Curated Learning Resources
 
 This collection includes a variety of resources such as books, articles, tutorials, and videos, all carefully curated to cover backend development from beginner to advanced levels. Whether you’re just starting out or looking to deepen your knowledge, these resources are organized to guide you through your learning journey:
