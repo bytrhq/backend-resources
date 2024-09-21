@@ -14,7 +14,7 @@ At the beginner level, the focus is on understanding the fundamental concepts of
 - **[Node.js Design Patterns](https://www.nodejsdesignpatterns.com/)** by Mario Casciaro  
   This book introduces readers to design patterns in Node.js, helping them understand how to structure backend applications effectively. It covers fundamental concepts and gradually moves into more complex patterns.
 
-- **[Learn Node.js by Building 10 Projects](https://www.amazon.com/Learn-Node-js-Building-Projects-JavaScript-ebook/dp/B01K4N1PZ6)** by Eduonix Learning Solutions  
+- **[Learn Node.js by Building 10 Projects](https://www.amazon.in/Learn-Node-js-Building-Projects-instructive/dp/1788293630)** by Eduonix Learning Solutions  
   A practical approach to learning Node.js by building ten real-world projects. Each project introduces a new concept or technology, making it easier for beginners to grasp the essentials of backend development.
 
 - **[You Don't Know JS Yet: Scope & Closures](https://github.com/getify/You-Dont-Know-JS)** by Kyle Simpson  
